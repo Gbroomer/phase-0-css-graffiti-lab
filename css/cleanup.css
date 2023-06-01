@@ -1,1 +1,20 @@
 /* write your override styles here */
+.tag-1 {
+    width: 1250px;
+    height: 1250px;
+    background-color: aqua;
+}
+#wall {
+    border: 200px snow;
+    border-bottom: 60px snow;
+}
+#tag-3 {
+    position: relative;
+    top: 50;
+    left: 50;
+    width: 1500px;
+    height: 1500px;
+}
+div#tag-2, div#tag-3 {
+    background-color: black;
+}
